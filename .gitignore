@@ -1,0 +1,18 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment files
+.env
+
+# Operating system files
+.DS_Store
+
+# Model files
+*.h5
+*.keras
+*.pth
+*.pt
